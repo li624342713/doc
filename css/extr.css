@@ -1,0 +1,4 @@
+:root {
+    --mdc-theme-primary: #663399;  /* 南京理工大学的紫色 */
+    --mdc-theme-accent: #663399;    /* 可根据需要选择其他颜色 */
+}
